@@ -77,7 +77,7 @@ function Header() {
             About me
           </motion.button>
         </Link>
-        <a href="./public/Anil's resume.pdf" download="Anil's resume">
+        <a href="Anil's resume.pdf" download="Anil's resume">
           <motion.button
             className="rsume-btn"
             variants={btnVariants}
